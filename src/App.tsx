@@ -1,8 +1,12 @@
+// Packages
 import React from "react";
 import "./App.css";
 
+// Components
+import AppRouter from "./AppRouter";
+
 function App() {
-  return <div className="App">app goes here</div>;
+  return <AppRouter />;
 }
 
 export default App;

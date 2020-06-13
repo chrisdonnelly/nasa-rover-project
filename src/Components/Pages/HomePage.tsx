@@ -3,5 +3,5 @@ import React from "react";
 export default HomePage;
 
 function HomePage(): JSX.Element {
-  return <></>;
+  return <p>stuff</p>;
 }
